@@ -3,7 +3,7 @@
 #  👋 **Hi, I’m Hiba**
 
 
-- 👀 I’m interested in cats
+- 👀 I’m interested in cats, math, and colourful sunsets
 - 🌱 I’m currently learning math, eocnomics, business, computer science
 - 💞️ I’m looking to collaborate on anything that helps expand my skills
 - 📫 How to reach me : 
