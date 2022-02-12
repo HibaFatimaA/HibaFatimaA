@@ -4,9 +4,9 @@
 
 
 - 👀 I’m interested in cats, math, and colourful sunsets
-- 🌱 I’m currently learning math, eocnomics, business, computer science
-- 💞️ I’m looking to collaborate on anything that helps expand my skills
-- 📫 How to reach me : 
+- 🌱 I’m currently learning math, computer science, econonics, and business administration
+- 💞️ I’m looking to collaborate on anything that helps expand my skills 
+- 📫 How to reach me:
 
 
 
