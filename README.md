@@ -3,11 +3,11 @@
 #  👋 **Hi, I’m Hiba**
 
 
-- 👀 I’m interested in cats, math, and colourful sunsets
+- 👀 I’m interested in cats, programming, and numbers 
 - 🌱 I’m currently learning math, computer science, econonics, and business administration
 - 📚 Studying at University of Waterloo/Wilfred Laurier University 
 - 👥 Looking to collaborate on anything that helps expand my skills 
-- 📫 How to reach me:
+- 📫 How to reach me: h2fatima@uwaterloo.ca
 
 
 
