@@ -3,7 +3,7 @@
 #  👋 **Hi, I’m Hiba**
 
 
-- 👀 I’m interested in cloud infrastructure, statistical analytics, and PMath (geometry and topologies)
+- 👀 I’m interested in cloud infrastructure, statistical analytics, and business optimizations
 - 🌱 I’m currently studying math with a focus in statistics, along with a business concentration in risk & insurance
 - 📚 Studying at University of Waterloo/Wilfred Laurier University!
 - 👥 Looking to expand my collaborative network - Feel free to reach out :D
