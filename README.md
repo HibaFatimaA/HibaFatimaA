@@ -3,9 +3,9 @@
 #  **hello!!, I’m Hiba**
 
 
-- 🪄 I like to solution things
+- 🪄 I like to solution/build things
 - 𓍊𓋼𓍊𓋼𓍊 Studying at UWaterloo/Laurier! studying math (statistics) and business (risk & insurance)
-- 𓆝 𓆟 𓆞 𓆝 𓆟 reach out: h2fatima@uwaterloo.ca
+- 𓆞 𓆝 𓆟 reach out: h2fatima@uwaterloo.ca
 
 
 
