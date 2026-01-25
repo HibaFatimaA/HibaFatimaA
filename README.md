@@ -1,6 +1,6 @@
 
 
-#  **hello!!, I’m Hiba**
+#  **hello!!, I’m hiba**
 
 
 - 🪄 I like to solution/build things
